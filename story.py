@@ -18,6 +18,11 @@ def left_path():
     print("The squirrels are ringing the town bells and scrambling with fear. One yells 'The beast is approaching!!'")
     print("You turn around, only to be met with an abnormally large cat. It is hissing and drooling. It sees you as an appealing appetizer.")
     print("Its eyes glare at you with murderous intent. You lift your sword and prepare for a grueling fight.")
+    print("...")
+    print("After many slashes and scratches, the fight is over. You stand victorious. The squirrels are in shock.")
+    print("You are a hero. You slayed the beast who tormented the squirrel village for thousands of years.")
+    print("The squirrels bake you a cookie for your efforts.")
+    print("Yay!")
 
 
 def right_path():

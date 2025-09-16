@@ -15,6 +15,18 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You have no weapons, while the squirrel has a sword. You seem to be at a disadvantage.")
+    print("..?")
+    print("What a foolish thought. You are a human. Your opponent is a squirrel. You feel insulted that the squirrel even challenged you.")
+    print("Fueled by rage, you agree to the duel.")
+    print("...")
+    print("You lost control and completely annihilated the squirrel. It's dead.")
+    print("You should feel bad. You should feel guilty.")
+    print("..but you don't.")
+    print("Instead, you feel satisfaction. You feel joy. You feel possessed to demonstrate your power once more.")
+    print("You see a village in the distance. You should introduce yourself. You should greet the villagers.")
+    print("..but you don't.")
+    print("Instead, you destroy them all. You've lost yourself. Forever.")
 
 def center_path():
     print("You walk forward and find a abnormally large tree with a door on its trunk.")

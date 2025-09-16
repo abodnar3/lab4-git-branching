@@ -12,7 +12,9 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
-
+    print("You try to pull out the sword, and it surprisingly slips right out. It feels warm.")
+    print("Suddenly, your vision gets blurry. Your eyelids become heavy. You fall unconscious.")
+    
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
 

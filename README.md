@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: The "bad ending" of the story. The protagonist lets rage and violence possess them and they lose their mind forever.
 
 ## Final Checklist
 

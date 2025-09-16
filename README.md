@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: The "good ending" of the story. The protagonist fights off a beast to protect a village and becomes a hero
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist

@@ -14,7 +14,12 @@ def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
     print("You try to pull out the sword, and it surprisingly slips right out. It feels warm.")
     print("Suddenly, your vision gets blurry. Your eyelids become heavy. You fall unconscious.")
-    
+    print("You wake up again. This time, however, in front of a small village occupied by squirrels.")
+    print("The squirrels are ringing the town bells and scrambling with fear. One yells 'The beast is approaching!!'")
+    print("You turn around, only to be met with an abnormally large cat. It is hissing and drooling. It sees you as an appealing appetizer.")
+    print("Its eyes glare at you with murderous intent. You lift your sword and prepare for a grueling fight.")
+
+
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
 
